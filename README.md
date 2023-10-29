@@ -1,2 +1,2 @@
 # calculator
-plaint console calculator 
+plain console calculator 
